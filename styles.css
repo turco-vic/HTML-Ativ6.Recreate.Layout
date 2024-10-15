@@ -15,6 +15,18 @@ header {
     margin-top: 1rem;
 }
 
+.header-right{
+
+}
+
+.header-left {
+
+}
+
+main {
+
+}
+
 .verde {
     background-color: #d3ed4b;
     height: 10rem;
@@ -25,14 +37,25 @@ header {
     background-color: #5584ca;
     height: 10rem;
     margin-top: 1rem;
-    gap: 2%;
     display: flex;
 }
 
-.art-um, .art-dois, .art-tres {
+.art-um{
     width: 100%;
     height: 7rem;
     gap: 2rem;
+}
+
+.art-dois{
+    width: 100%;
+    height: 7rem;
+    gap: 2rem;
+}
+
+.art-tres{
+    width: 100%;
+    height: 7rem;
+    gap: 3rem;
 }
 
 footer {
@@ -42,13 +65,34 @@ footer {
     margin-bottom: 1rem;
 }
 
-.main-container {
-    display: flex;
-    gap: 2%;
+.foot-um {
+
+}
+
+.foot-dois {
+
+}
+
+.foot-tres {
+
+
+}
+
+.foot-quatro {
+    
 }
 
 
 
+
+
+
+
+
+.main-container {
+    display: flex;
+    gap: 2%;
+}
 
 .azul-div1 {
     width: 100%;
